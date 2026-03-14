@@ -1,6 +1,6 @@
 cd /etc
 
-apt-get install issuelogo
+apt-get install linuxlogo
 
 ls issue*
 
