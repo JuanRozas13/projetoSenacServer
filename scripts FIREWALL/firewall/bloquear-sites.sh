@@ -21,7 +21,7 @@ address=/web.whatsapp.com/0.0.0.0
 address=/discord.com/0.0.0.0
 address=/telegram.org/0.0.0.0
 
-# Jogos
+# Jogos 
 address=/twitch.tv/0.0.0.0
 address=/steamcommunity.com/0.0.0.0
 address=/epicgames.com/0.0.0.0
